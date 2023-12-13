@@ -1,2 +1,0 @@
-C:\Users\miha\OneDrive\Рабочий стол\уроки\шарага\АиП\IndividualTask\IndividualTaskRemake\x64\Debug\IndividualTaskRemake.exe
-C:\Users\ponch\Desktop\IndividualTask\x64\Debug\IndividualTaskRemake.exe
